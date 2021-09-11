@@ -7,7 +7,7 @@
 -  **Slogan :** Happy to help always :hand: 
 -  **Views :** ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Srujan12-hi/&title=Profile%20Views)
 ### Contact me :
-[![Telegram](https://img.shields.io/badge/-AjayBhojaniAB-blue?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.dog/Sruja_12)](https://www.telegram.dog/Srujan12-hi)
+[![Telegram](https://img.shields.io/badge/-Srujan-blue?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.dog/Sruja_12)](https://www.telegram.dog/Srujan12-hi)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
