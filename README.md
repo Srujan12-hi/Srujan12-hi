@@ -1,8 +1,8 @@
 # About
 
-### Hi There ! It's Me [Srujan](http://t.me/Sruja_12)
+### Hi There ! It's Me [Srujan](http://t.me/Sruju_2007)
 
--  **Profession :** Still a Student 👷
+-  **Profession :** Still a Student..NEET aspirant. 👷
 -  **Learning :** Python :fire:
 -  **Slogan :** Happy to help always :hand: 
 -  **Views :** ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Srujan12-hi/&title=Profile%20Views)
