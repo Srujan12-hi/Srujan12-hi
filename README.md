@@ -4,7 +4,11 @@
 
 -  **Profession :** Still a Student..NEET aspirant. 👷
 -  **Learning :** Python :fire:
--  **Slogan :** Happy to help always :hand: 
+-  **Slogan :** Happy to help always :hand:
+
+-  Failed in **love** 💔...But a good **relationship advisor**.
+
+-  
 -  **Views :** ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Srujan12-hi/&title=Profile%20Views)
 ### Contact me :
 [![Telegram](https://img.shields.io/badge/-Srujan-blue?style=flat-square&logo=telegram&logoColor=white&link=https://www.telegram.dog/Sruju_2007)](https://www.telegram.dog/Sruju_2007)
